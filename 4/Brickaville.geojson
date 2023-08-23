@@ -1,0 +1,5 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","id":"MG","properties":{"name":"Brickaville"},"geometry":{"type":"Polygon","coordinates":[[[-18.779688, 48.988831],[-18.77979, 48.954928],[-18.802379, 48.941925],[-18.815744, 48.938878],[-18.865916, 48.961772],[-18.877032, 49.054663],[-18.863348, 49.0646],[-18.820859, 49.069484]]]}},
+{"type":"Feature","id":"ANVR","properties":{"name":"Anivorano"},"geometry":{"type":"Point","coordinates":[-18.810007, 48.967920]}},
+{"type":"Feature","id":"Feux1","properties":{"name":"Feux1"},"geometry":{"type":"Point","coordinates":[-18.819474, 49.034328]}}
+]}
